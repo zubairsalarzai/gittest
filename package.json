@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "this is my first angular project",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "^c",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubairsalarzai/gittest.git"
+  },
+  "author": "zubair khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubairsalarzai/gittest/issues"
+  },
+  "homepage": "https://github.com/zubairsalarzai/gittest#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
